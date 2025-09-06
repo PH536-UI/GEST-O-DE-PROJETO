@@ -1,0 +1,25 @@
+## Kanban Board - Sprint 1 (Simulação)
+
+Este é um placeholder textual para o Kanban board do Sprint 1. Numa implementação real, esta seria uma imagem exportada de uma ferramenta de gestão de projetos como Trello, Jira ou GitHub Projects.
+
+```
++---------------------+---------------------+---------------------+
+|        TO DO        |        DOING        |        DONE         |
++---------------------+---------------------+---------------------+
+| Reunião de kick-off |                     |                     |
+| Definição requisitos|                     |                     |
+| Criação repo GitHub |                     |                     |
+| Config. ferramenta GP|                     |                     |
+| Planeamento Sprint 1|                     |                     |
+| Análise PostgreSQL  |                     |                     |
+| Pesquisa infra nuvem|                     |                     |
+| Config. amb. eng. dados|                     |                     |
+| Revisão dados exist.|                     |                     |
+| Pesquisa modelos pred.|                     |                     |
+| Config. amb. ciên. dados|                     |                     |
++---------------------+---------------------+---------------------+
+```
+```
+
+**Nota:** As tarefas seriam movidas entre as colunas 'TO DO', 'DOING' e 'DONE' à medida que o sprint avança.
+
